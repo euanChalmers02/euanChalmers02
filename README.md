@@ -14,3 +14,6 @@ My name is Euan Chalmers I am a 3rd year computing science student at the Univer
 <li><a href="https://github.com/euanChalmers02/Costa_Open_Dataset">Costa_Open_Dataset</a></li>
 <li><a href="https://github.com/euanChalmers02/Functional-dependencies-package">Functional-dependencies-package</a></li>
 
+<p>I am currently in 3rd year studying computing science @ Univeristy of Edinburgh</p>
+
+
