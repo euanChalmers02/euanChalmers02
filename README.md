@@ -1,9 +1,7 @@
-- Hi, I’m @euanChalmers02
-- I am currently in 3rd Year @ University of Edinburgh
-- Read abit about me below or take a look at some of my public projects
+# Home Page
 
+My name is Euan Chalmers I am a 3rd year computing science student at the University of Edinburgh. I am currently looking for an internship opportunity. I have an interest in software engineering with a focus on cloud computing. As well as database design and data-driven applications.
 
-<!---
-euanChalmers02/euanChalmers02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src= 
+
+<h2>my website<\h2>
