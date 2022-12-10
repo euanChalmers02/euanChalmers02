@@ -19,7 +19,7 @@ My name is Euan Chalmers I am a 3rd year computing science student at the Univer
 
 
 
-<p>Featured Repos</p>
+<p><b>Featured Repos</b></p>
 <li><a href="https://github.com/euanChalmers02/Costa_Open_Dataset">Costa_Open_Dataset</a></li>
 <li><a href="https://github.com/euanChalmers02/Functional-dependencies-package">Functional-dependencies-package</a></li>
 
