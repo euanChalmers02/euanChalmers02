@@ -10,6 +10,16 @@ My name is Euan Chalmers I am a 3rd year computing science student at the Univer
 
 📝BLOG                ✉️Contact Me             🗣️[FEEDBACK](https://webpagebucket77.s3.eu-west-1.amazonaws.com/feedback.html)     
 
+---
+<strong>Experince in:</strong>
+* Java
+* Python
+* AWS cloud services
+* Scala
+* GeoJson manipulation and mapbox api
+* Databases -> SQL & Relational Algerbra(Real)
+(see below for university courses taken)
+---
 <aside>
 💥 NEW: please check out my under development PintPrices web app (v0.1) [HERE](https://webpagebucket77.s3.eu-west-1.amazonaws.com/ReadMe)
 
@@ -63,6 +73,16 @@ Further developments including intergatrating my **drinks api(3)** to add releva
 When building my pint price finder app (above) i can across a lack of any alcoholic drink apis, so to solve my lack of information i built my own. It contains > 3000 diffrent drinks ranging from wine to beer and spirts. You can use it to get descriptions and alcoholic percentages or use the RANDOM function to get a random drink. It was built using a simple **web scrapper** along with python to create the **python** files along with a simple **AWS lambda** function to act as the API and get the json file from my **S3 bucket**.
 
 **[click here for your random drink](https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws/?drink=RANDOM)**
+
+---
+<strong>University Courses</strong>
+* Introduction to Databases
+* Elements of Programming Languges
+* Informatics Large Project
+* Software Engineering 
+* Functional Programming
+* Object Oriented Programming
+* <strong>Many More...</strong>
 
 ---
 Want to help out with any of my ideas please reach out below :)
