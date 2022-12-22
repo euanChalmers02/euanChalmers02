@@ -17,16 +17,8 @@ My name is Euan Chalmers I am a 3rd year computing science student at the Univer
 
 ---
 
-**Featured Projects:**
+<strong>Featured Projects:</strong></p><table id="dd7e4eec-e952-47a2-9e34-826f429cf70c" class="simple-table"><thead class="simple-table-header"><tr id="888b2a73-fbe5-4ef9-b907-172ad3a8c20c"><th id="Fwfp" class="simple-table-header-color simple-table-header" style="width:232.921875px">Project</th><th id="MGv&gt;" class="simple-table-header-color simple-table-header">Progress</th><th id="yNPl" class="simple-table-header-color simple-table-header" style="width:284px">Languages &amp; services used</th><th id="lh;y" class="simple-table-header-color simple-table-header">Link</th></tr></thead><tbody><tr id="0b4cb461-5042-42f8-86cb-53b9b48a8d2d"><td id="Fwfp" class="" style="width:232.921875px">PintPrices</td><td id="MGv&gt;" class="">🏗️</td><td id="yNPl" class="" style="width:284px">Python3, AWS lambda, AWS dynomodb AWS S3</td><td id="lh;y" class=""></td></tr><tr id="f50f3307-19e3-4671-9c4f-670c91a2633d"><td id="Fwfp" class="" style="width:232.921875px">FDS packages</td><td id="MGv&gt;" class="">🛑</td><td id="yNPl" class="" style="width:284px">Python3</td><td id="lh;y" class=""></td></tr><tr id="cb1cde5d-517f-4c94-a285-561588d1b895"><td id="Fwfp" class="" style="width:232.921875px">RandomOrderGenerator</td><td id="MGv&gt;" class="">✅</td><td id="yNPl" class="" style="width:284px">Python3 JSON</td><td id="lh;y" class=""></td></tr><tr id="1d226be9-01df-4986-b1cf-46f9a74b606d"><td id="Fwfp" class="" style="width:232.921875px">DatabaseGenerator</td><td id="MGv&gt;" class="">✅</td><td id="yNPl" class="" style="width:284px">Python3 , Real , SQL</td><td id="lh;y" class=""></td></tr><tr id="ec4b7987-f2a6-4a61-a3c3-e1d849752c0d"><td id="Fwfp" class="" style="width:232.921875px">PropertyFinderLocal</td><td id="MGv&gt;" class="">✅</td><td id="yNPl" class="" style="width:284px">Python3, Json/Java?</td><td id="lh;y" class=""></td></tr><tr id="2d729176-4d54-46ba-a6bb-0819da57d88b"><td id="Fwfp" class="" style="width:232.921875px">Java Logging</td><td id="MGv&gt;" class="">✅</td><td id="yNPl" class="" style="width:284px">Java</td><td id="lh;y" class=""></td></tr><tr id="43b014d8-b60a-4e94-943e-9df5967b0f70"><td id="Fwfp" class="" style="width:232.921875px">Drinks API</td><td id="MGv&gt;" class="">🏗️</td><td id="yNPl" class="" style="width:284px">Python, Web scrapping, AWS Lambda,AWS S3</td><td id="lh;y" class=""></td></tr><tr id="c36d48f4-de2f-48aa-8b39-1e7abbcba91d"><td id="Fwfp" class="" style="width:232.921875px">Nearest Sausage Roll</td><td id="MGv&gt;" class="">🏗️</td><td id="yNPl" class="" style="width:284px">Python, Lambda , HTML,Javascript</td><td id="lh;y" class=""></td></tr></tbody></table><p id="a6228779-09b7-45e8-8094-d7d5fc3a4e1f" class=""><strong>KEY</strong>: {✅ :DONE ,   🛑:ON HOLD , 🏗️: IN PROGRESS</p><hr id="2fade03d-74c4-4b95-8d93-a4b99e06389a"/>
 
-| Project | Progress | Languages & services used | Link |
-| --- | --- | --- | --- |
-| PintPrices |  | Python3, AWS lambda, AWS dynomodb AWS S3 |  |
-| FDS packages |  | Python3 |  |
-| RandomOrderGenerator |  | Python3 JSON |  |
-| DatabaseGenerator |  | Python3 , Real , SQL |  |
-| PropertyFinderLocal |  | Python3, Json/Java? |  |
-| Java Logging |  | Java |  |
 
 ---
 
@@ -62,6 +54,7 @@ Displays over 50,000 pubs across the uk along with their prices for popular drin
 <img width="1438" alt="Screenshot 2022-12-22 at 00 16 05" src="https://user-images.githubusercontent.com/113519226/209029891-96e4cb1d-ebe5-4a7b-a38f-ee6170212bc5.png">
 
 Further developments including intergatrating my **drinks api(3)** to add relevant descriptions to each drink that displayed, further building on my **data driven design**. Additionally i will aim to improve the css and design of the pages. I will also be adding logging as i have sketched below.
+![IMG_0203 2](https://user-images.githubusercontent.com/113519226/209134396-9af1e786-960f-4deb-b3e7-0009f94aa094.jpg)
 
 ---
 
@@ -72,6 +65,7 @@ When building my pint price finder app (above) i can across a lack of any alcoho
 **[click here for your random drink](https://lg3gc7zrov3dqe5jsui4xuvgqe0lrujz.lambda-url.eu-west-1.on.aws/?drink=RANDOM)**
 
 ---
+Want to help out with any of my ideas please reach out below :)
 
 **Contact Me:**
 
