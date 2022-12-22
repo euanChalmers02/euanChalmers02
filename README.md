@@ -2,12 +2,6 @@
 
 My name is Euan Chalmers I am a 3rd year computing science student at the University of Edinburgh. I am currently looking for an internship opportunity. I have an interest in software engineering with a focus on cloud computing. As well as database design and data-driven applications.
 
-<a href="https://euanchalmers.s3.eu-west-1.amazonaws.com/blog">My Blog</a>
-
-<a href="">CV</a>
-
-<a href="">LinkedIn</a>
-
 3rd Year Computer Science Student @ University of Edinburgh.
 
 🧑‍💻[GITHUB](https://github.com/euanChalmers02)            🖥️[CV](https://euanchalmers.s3.eu-west-1.amazonaws.com/cv)                            🏢 [LINKEDIN](https://www.linkedin.com/in/euan-chalmers-3a10261b2/)
