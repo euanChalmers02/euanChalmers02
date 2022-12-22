@@ -51,7 +51,7 @@ My name is Euan Chalmers I am a 3rd year computing science student at the Univer
 **Closest sausage roll web app:**
 
 This uses my own J**son** dataset of Greggs locations to find the distance to your next sausage roll fix. It uses **AWS lambda** function to return a lnglat and square(1) value which is then used to find the distance to the nearest Greggs location from the dataset stored in **S3** bucket. This is then visualised using the **Mapbox** api (see below)
-
+<img width="798" alt="Screenshot 2022-12-22 at 00 03 59" src="https://user-images.githubusercontent.com/113519226/209029902-2dbc145b-a905-4b7b-8288-1abb2b3762b3.png">
 Further developments include adding a **python** generated **QR code** that will give a google maps route from your current position to the store. 
 
 ---
@@ -59,8 +59,7 @@ Further developments include adding a **python** generated **QR code** that will
 **Pint Price Finder Web App:**
 
 Displays over 50,000 pubs across the uk along with their prices for popular drinks. The goal is to have users submit price updates for their local pubs. (NOTE: currently synthetic data). The system is built with using **javascript** to render the data that is stored in an **S3 bucket** with **aws lambda functions** used to create the dynamic html pages for both pub descriptions and update prices.(See below for some images)
-
-![Screenshot 2022-12-22 at 00.16.05.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8e09d72-3494-4f40-8bf5-3ac5704a24b3/Screenshot_2022-12-22_at_00.16.05.png)
+<img width="1438" alt="Screenshot 2022-12-22 at 00 16 05" src="https://user-images.githubusercontent.com/113519226/209029891-96e4cb1d-ebe5-4a7b-a38f-ee6170212bc5.png">
 
 Further developments including intergatrating my **drinks api(3)** to add relevant descriptions to each drink that displayed, further building on my **data driven design**. Additionally i will aim to improve the css and design of the pages. I will also be adding logging as i have sketched below.
 
