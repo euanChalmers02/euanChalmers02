@@ -11,7 +11,7 @@ My name is Euan Chalmers I am a 3rd year computing science student at the Univer
 📝BLOG                ✉️Contact Me             🗣️[FEEDBACK](https://webpagebucket77.s3.eu-west-1.amazonaws.com/feedback.html)     
 
 ---
-<strong>Experince in:</strong>
+<strong>Experince & Areas of Intrest:</strong>
 * Java
 * Python
 * AWS cloud services
