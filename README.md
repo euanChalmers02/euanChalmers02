@@ -21,7 +21,7 @@ My name is Euan Chalmers I am a 3rd year computing science student at the Univer
 (see below for university courses taken)
 ---
 <aside>
-💥 NEW: please check out my under development PintPrices web app (v0.1) [HERE](https://webpagebucket77.s3.eu-west-1.amazonaws.com/ReadMe)
+💥 NEW: please check out my under development PintPrices web app (v0.1) [HERE]([https://webpagebucket77.s3.eu-west-1.amazonaws.com/ReadMe](https://webpagebucket77.s3.eu-west-1.amazonaws.com/homepageMap.html))
 
 </aside>
 
