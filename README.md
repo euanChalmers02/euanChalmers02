@@ -1,6 +1,9 @@
 # Home Page
 
 
+
+
+dedw
 **About Me:**
 My name is Euan Chalmers I am a 3rd year computing science student at the University of Edinburgh. I am currently looking for an internship opportunity. I have an interest in software engineering with a focus on cloud computing. As well as database design and data-driven applications.I am experienced working in various roles in dynamic work environments that require me to be organised but also adaptable. I have proven experience on several work and personal projects. I am a friendly, positive, and hardworking individual keen to work hard.
 
